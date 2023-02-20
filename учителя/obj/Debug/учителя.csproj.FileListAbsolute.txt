@@ -1,0 +1,6 @@
+C:\Users\79994\Desktop\учителя\учителя\obj\Debug\учителя.csproj.AssemblyReference.cache
+C:\Users\79994\Desktop\учителя\учителя\obj\Debug\учителя.csproj.CoreCompileInputs.cache
+C:\Users\79994\Desktop\учителя\учителя\bin\Debug\учителя.dll
+C:\Users\79994\Desktop\учителя\учителя\bin\Debug\учителя.pdb
+C:\Users\79994\Desktop\учителя\учителя\obj\Debug\учителя.dll
+C:\Users\79994\Desktop\учителя\учителя\obj\Debug\учителя.pdb
